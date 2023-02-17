@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 36px;
+  }
+  
+  #image {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+  }
+
+  #image-caption {
+    text-align: center;
+    font-style: italic;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 10px;
+  }
+  
+  #tribute-link {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #333;
+    border: 2px solid #333;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
